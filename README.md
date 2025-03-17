@@ -1,7 +1,7 @@
 # **Movement Ecology and Home Range Use of Black Capuchin Monkeys (_Sapajus nigritus_) in Pine Plantation Landscapes**  
 
 ## **Overview**
-This repository contains R scripts used to analyze movement and space-use data of black capuchin monkeys (_Sapajus nigritus_) inhabiting pine plantations and Iguazú National Park, northeastern Argentina. Data were collected using a combination of methods, including GPS collars, VHF telemetry, and direct full-day group follows.  
+This repository contains R scripts used to analyze movement and space-use data of black capuchin monkeys (_Sapajus nigritus_) inhabiting pine plantations and Iguazú National Park in northeastern Argentina. Data were collected using a combination of methods, including GPS collars, VHF telemetry, and direct full-day group follows.  
 
 To understand how the conversion of native forests into plantations affects spatial ecology, we conducted three main analyses:
 
@@ -9,7 +9,7 @@ To understand how the conversion of native forests into plantations affects spat
 ### **Daily Trajectories** **[(CODE)](https://valentinzarate.github.io/Biol_Cons_Capuchins/daily_paper.html)**
 **How much do capuchins move daily in plantations?**  
 - We examined the effects of plantations and other environmental covariates on daily travel distances using **Generalized Linear Mixed Models (GLMMs)**.  
-- Daily travel distance is directly linked to energy expenditure and the challenges of meeting ecological needs in altered landscapes.  
+- Daily travel distance is directly linked to the challenges of meeting ecological needs in altered landscapes. Scarcity of resource (food and sleeping sites) in plantations stands force capuchins to travel longer daily distances.  
 
 ### **Movement Segmentation** **[(CODE)](https://valentinzarate.github.io/Biol_Cons_Capuchins/hmm_paper.html)** 
 **How do capuchins move within plantations?**  
