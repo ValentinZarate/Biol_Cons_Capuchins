@@ -1,4 +1,4 @@
-# **Movement Ecology and Home Range Use of Black Capuchin Monkeys (_Sapajus nigritus_) in Pine Plantation Landscapes**  
+# **Movement Ecology and conservation of capuchins in pine plantation landscapes**  
 
 ## **Overview**
 This repository contains R scripts used to analyze movement and space-use data of black capuchin monkeys (_Sapajus nigritus_) inhabiting pine plantations and Iguazú National Park in northeastern Argentina. Data were collected using a combination of methods, including GPS collars, VHF telemetry, and direct full-day group follows.  
