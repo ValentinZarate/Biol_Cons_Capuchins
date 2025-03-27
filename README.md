@@ -24,7 +24,7 @@ To understand how the conversion of native forests into plantations affects spat
 - Using **GLMMs**, we tested how home range size and core areas were influenced by plantations and other key covariates.  
 - These findings provide critical insights for primate conservation in forestry landscapes, supporting sustainable management practices and predicting population outcomes.  
 
-
-
-
+### **Some Animations** **[(CODE)](https://valentinzarate.github.io/Biol_Cons_Capuchins/gganimate.html)**
+- We used animated maps to visualize how behavioral states (Resident and Transit) link to habitat types within plantations landscapes.
+- The animations also show trajectories and behavioral states within home ranges and core areas, providing spatial context to behavioral segmentation.
 
